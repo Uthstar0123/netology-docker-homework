@@ -1,0 +1,20 @@
+# Temporary files
+work/
+outputs/
+*.tmp
+*.bak
+*.log
+
+# Source documents
+*.docx
+INSTRUCTIONS.md
+
+# Secrets and local settings
+.env
+*.token
+daemon.json
+compose.yaml.saved
+
+# OS files
+.DS_Store
+Thumbs.db
